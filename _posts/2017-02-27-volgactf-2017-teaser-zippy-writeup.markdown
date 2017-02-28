@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "[VolgaCTF 2017 Teaser] Zippy"
+title: "[VolgaCTF 2017 Teaser] Zippy writeup"
 date: "2017-02-27 16:33"
 category: writeup
 ---
