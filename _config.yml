@@ -9,6 +9,8 @@ title: R2S4X blog
 twitter_username: R2S4X
 github_username: R2S4X
 
+disqus:
+    shortname: r2s4x
 # Build settings
 markdown: kramdown
 # theme: jekyll-theme-hacker
