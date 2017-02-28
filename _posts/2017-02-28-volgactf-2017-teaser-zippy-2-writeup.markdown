@@ -5,8 +5,6 @@ date: "2017-02-28 14:19"
 category: writeup
 ---
 
-## Zippy 2
-
 **Задание**: [zippy2.zip]({{ site.url }}/download/zippy2.zip)
 
 Немного измененное [Zippy]({{ site.url }}/writeup/2017/02/27/volgactf-2017-teaser-zippy-writeup.html). В нем немного отличается функция расшифровки
