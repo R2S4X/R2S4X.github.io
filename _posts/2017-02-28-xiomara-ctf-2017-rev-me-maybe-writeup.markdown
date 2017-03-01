@@ -18,15 +18,17 @@ category: writeup
 Т.к. множитель больше `0x100` следовательно символы пароля никак не накладываются друг на друга. И для того что бы их получить достаточно выполнить обратное действие
 
 ``` python
+from hashlib import md5
+
 n = 0xCEFF5331D4AA
 s = ''
 while n > 0:
     s += chr(n % 0x128)
     n //= 0x128
 
-print(s[::-1])
+print('xiomara{%s}' % md5(s[::-1]).hexdigest())
 ```
 
 ```
-xiomara{d00m3r}
+xiomara{48c92083dc430eb4e8af78a38f9cc877}
 ```
