@@ -26,7 +26,7 @@ while n > 0:
     s += chr(n % 0x128)
     n //= 0x128
 
-print('xiomara{%s}' % md5(s[::-1]).hexdigest())
+print('xiomara{' + md5(s[::-1]).hexdigest() + '}')
 ```
 
 ```
