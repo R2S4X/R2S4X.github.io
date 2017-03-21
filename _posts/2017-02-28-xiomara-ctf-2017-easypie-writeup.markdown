@@ -2,7 +2,7 @@
 layout: "post"
 title: "[Xiomara CTF 2017] EasyPie writeup"
 date: "2017-02-28 21:14"
-category: writeup
+categories: writeup
 ---
 
 **Задание**: [easypie.zip]({{ site.url }}/download/easypie.zip)

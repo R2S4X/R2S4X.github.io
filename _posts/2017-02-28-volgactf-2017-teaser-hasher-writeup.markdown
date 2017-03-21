@@ -2,7 +2,7 @@
 layout: "post"
 title: "[VolgaCTF 2017 Teaser] Hasher writeup"
 date: "2017-02-28 14:48"
-category: writeup
+categories: writeup
 ---
 
 **Задание**: [hasher.zip]({{ site.url }}/download/hasher.zip)

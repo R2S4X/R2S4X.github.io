@@ -2,7 +2,7 @@
 layout: "post"
 title: "[VolgaCTF 2017 Teaser] Zippy 2 writeup"
 date: "2017-02-28 14:19"
-category: writeup
+categories: writeup
 ---
 
 **Задание**: [zippy2.zip]({{ site.url }}/download/zippy2.zip)

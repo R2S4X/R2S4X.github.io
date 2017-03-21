@@ -1,8 +1,8 @@
 ---
 layout: "post"
-title: "[Boston Key Party CTF 2017] qt crackme writeup"
+title: "[Boston Key Party CTF 2017] qt crackme (rev 250)"
 date: "2017-03-01 20:06"
-category: writeup
+categories: writeup
 ---
 
 **Задание**: [bkp-cutie-keygen.zip]({{ site.url}}/downloads/bkp-cutie-keygen.zip)

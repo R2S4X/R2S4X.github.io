@@ -2,7 +2,7 @@
 layout: "post"
 title: "[Xiomara CTF 2017] Crapsoft Activator writeup"
 date: "2017-03-01 13:41"
-category: writeup
+categories: writeup
 ---
 
 **Задание**: [CrapsoftActivator.zip]({{ site.url }}/download/CrapsoftActivator.zip)

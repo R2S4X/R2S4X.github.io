@@ -2,7 +2,7 @@
 layout: "post"
 title: "[Xiomara CTF 2017] Hunt Me writeup"
 date: "2017-02-28 19:39"
-category: writeup
+categories: writeup
 ---
 
 **Задание**: [huntme.zip]({{ site.url }}/download/huntme.zip)
