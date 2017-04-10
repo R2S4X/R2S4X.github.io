@@ -135,3 +135,5 @@ def decrypt_file(fname):
 
 decrypt_file('flag.locked_65d0360739a01c5737108cc172ea5c8681249c74')
 ```
+
+![]({{ site.url }}/image/ransomware_flag.png)
